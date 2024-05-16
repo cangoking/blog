@@ -29,8 +29,12 @@ npm update --save hexo-theme-fluid
 ### 部署到码云
 
 ```shell
+
 #hexo generate 该命令可以简写为:hexo d 生成静态文件
 #hexo deploy 该命令可以简写为：hexo d 部署网站
 hexo g -d
+
+
+
 ```
 
