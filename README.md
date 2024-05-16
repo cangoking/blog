@@ -3,6 +3,13 @@
 
 https://hexo.io/zh-cn/docs/
 
+
+### 写作
+
+```shell
+$ hexo new [ post | page |draft ] <title> # 默认为 post 
+```
+
 ## fluid 主题
 
 https://github.com/fluid-dev/hexo-theme-fluid
